@@ -2,12 +2,18 @@
 
 > From one-line prompt to shipped interface
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · updated 2026-07-03 10:12 UTC · 18 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · updated 2026-07-03 10:26 UTC · 23 practices
 
 ## 2026-07-02
 
+### [Pollo AI Commerce Studio unifies product photos, try-on, and videos](https://digestops.com/p/pollo-ai-commerce-studio-unifies-product-photos-try-on-and-67)
+*by [@mikenevermiss](https://x.com/mikenevermiss) · 102 likes · [source](https://x.com/mikenevermiss/status/2072614506002256383)*
+
+- Upload product once to generate clean photos, try-on images, and short video ads in one chat screen.
+- No switching tools or re-uploading; no editing skills required.
+
 ### [Alibaba open-sourced PageAgent, a JavaScript AI agent that lives inside webpages for natural language control.](https://digestops.com/p/alibaba-open-sourced-pageagent-a-javascript-ai-agent-that-24)
-*by [@KanikaBK](https://x.com/KanikaBK) · 2413 likes · [source](https://x.com/KanikaBK/status/2072606006971081213)*
+*by [@KanikaBK](https://x.com/KanikaBK) · 2467 likes · [source](https://x.com/KanikaBK/status/2072606006971081213)*
 
 - PageAgent can be embedded with a single line of HTML and works without browser extensions or backend changes.
 - It supports smart form filling, voice commands, multi-page tasks, and MCP server integration.
@@ -28,7 +34,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - The app started from a single building and grew to 50 buildings within weeks.
 
 ### [A software company reduced Hermes agent token costs by configuring background tasks instead of switching models.](https://digestops.com/p/a-software-company-reduced-hermes-agent-token-costs-by-29)
-*by [@IBuzovskyi](https://x.com/IBuzovskyi) · 677 likes · [source](https://x.com/IBuzovskyi/status/2072380699386978492)*
+*by [@IBuzovskyi](https://x.com/IBuzovskyi) · 680 likes · [source](https://x.com/IBuzovskyi/status/2072380699386978492)*
 
 - Token costs are driven by system prompts, memory files, skill headers, MCP tool schemas, and conversation history.
 - Disable or prune unused skills to reduce per-message token usage.
@@ -46,11 +52,25 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - Built an Android app that scans for Bluetooth signatures of smart glasses to detect nearby recording devices.
 - The app identifies specific Bluetooth profiles used by smart glasses, enabling real-time detection.
 
+### [Cinematic website built in hours with Claude Code, no design team needed](https://digestops.com/p/cinematic-website-built-in-hours-with-claude-code-no-design-64)
+*by [@0xSlyth](https://x.com/0xSlyth) · 151 likes · [source](https://x.com/0xSlyth/status/2072360679571681463)*
+
+- Claude Code generated interactive particle animations, cinematic scroll effects, and premium typography.
+- The landing page uses immersive storytelling instead of static sections, with high performance frontend.
+- Prototyping a world-class design experience that would take weeks with a team can be done in hours.
+
 ### [Cinematic landing page with animations built by Claude Code](https://digestops.com/p/cinematic-landing-page-with-animations-built-by-claude-code-50)
 *by [@0xSlyth](https://x.com/0xSlyth) · 273 likes · [source](https://x.com/0xSlyth/status/2072315788556640270)*
 
 - Claude Code built a cinematic landing page with immersive animations, interactive particle effects, and smooth scroll storytelling.
 - No design agency or frontend team needed; production-ready code in minutes.
+
+### [Modelence framework built agent-first for AI app builders](https://digestops.com/p/modelence-framework-built-agent-first-for-ai-app-builders-68)
+*by [@NainsiDwiv50980](https://x.com/NainsiDwiv50980) · 102 likes · [source](https://x.com/NainsiDwiv50980/status/2072314911947165885)*
+
+- Existing AI builders use human-first frameworks causing agent failures on auth, database, deploy.
+- Modelence is built from scratch with agent-first design: auth, database, cron, monitoring built-in.
+- Aram scaled CodeSignal to Meta and Netflix; built Modelence to solve backend setup failures.
 
 ### [$20k/month with 8 clients at $2,500 each using AI agents](https://digestops.com/p/20k-month-with-8-clients-at-2-500-each-using-ai-agents-48)
 *by [@andreysuperior](https://x.com/andreysuperior) · 327 likes · [source](https://x.com/andreysuperior/status/2072287602313502739)*
@@ -109,10 +129,26 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - It hooks into Apple Music and local lossless files with Cover Flow.
 - The developer used a 3D printed case to cover most of the screen.
 
+### [Fitness app uses casino psychology with betting on step goals](https://digestops.com/p/fitness-app-uses-casino-psychology-with-betting-on-step-65)
+*by [@BrooksWhaleX](https://x.com/BrooksWhaleX) · 146 likes · [source](https://x.com/BrooksWhaleX/status/2070667862478598469)*
+
+- Users bet money on hitting 10,000 steps; miss goal loses bet, hit goal splits pot with winners.
+- Financial loss aversion motivates action more effectively than streaks or badges.
+- Disciplined users profit from inconsistent ones by sharing the pot.
+
+## 2026-06-26
+
+### [$10/mo automated music business using Suno and distributor](https://digestops.com/p/10-mo-automated-music-business-using-suno-and-distributor-66)
+*by [@ridark_eth](https://x.com/ridark_eth) · 116 likes · [source](https://x.com/ridark_eth/status/2070509136710631447)*
+
+- Suno generates release-ready tracks from text prompts; paid plan grants full rights.
+- A $10/month distributor ships tracks to Spotify; Claude handles metadata and busywork.
+- Spotify pays ~$0.003 per stream; tracks earn nothing until 1,000 plays in a year.
+
 ## 2026-06-25
 
 ### [v0 released Design Systems 2.0, allowing import of design systems from GitHub, npm, Storybook, and Figma.](https://digestops.com/p/v0-released-design-systems-2-0-allowing-import-of-design-27)
-*by [@v0](https://x.com/v0) · 1000 likes · [source](https://x.com/v0/status/2070187537369583778)*
+*by [@v0](https://x.com/v0) · 1001 likes · [source](https://x.com/v0/status/2070187537369583778)*
 
 - Users can import real components, colors, fonts, and patterns from various sources.
 - The tool builds with the imported design system.

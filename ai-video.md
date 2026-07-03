@@ -2,16 +2,22 @@
 
 > Prompts, pipelines and params behind the clips going viral
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 2026-07-03 10:12 UTC · 17 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 2026-07-03 10:26 UTC · 22 practices
 
 ## 2026-07-02
 
 ### [Built an AI speed radar with Claude that sold to a city district for $317,000.](https://digestops.com/p/built-an-ai-speed-radar-with-claude-that-sold-to-a-city-20)
-*by [@0x_fokki](https://x.com/0x_fokki) · 669 likes · [source](https://x.com/0x_fokki/status/2072670906967625739)*
+*by [@0x_fokki](https://x.com/0x_fokki) · 723 likes · [source](https://x.com/0x_fokki/status/2072670906967625739)*
 
 - Claude tags vehicles and pedestrians in real-time from a camera feed, flagging speeders.
 - It clips video, reads license plates, matches owners, and emails fines automatically.
 - The system was built in 9 days for $20 in API calls.
+
+### [16-min tutorial: build cinematic $50k websites with Claude Fable 5](https://digestops.com/p/16-min-tutorial-build-cinematic-50k-websites-with-claude-60)
+*by [@viktoroddy](https://x.com/viktoroddy) · 2705 likes · [source](https://x.com/viktoroddy/status/2072581407076200791)*
+
+- Recorded a step-by-step tutorial on using Claude Fable 5 to build high-end websites.
+- Demonstrates how anyone can build stunning sites fully with AI.
 
 ## 2026-07-01
 
@@ -23,7 +29,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Generate character and environment sheets in GPT Image 2 from the annotated board before animating.
 
 ### [Built a Claude agent that creates websites in 45 minutes and generated $31,529 in one month.](https://digestops.com/p/built-a-claude-agent-that-creates-websites-in-45-minutes-19)
-*by [@mikenevermiss](https://x.com/mikenevermiss) · 762 likes · [source](https://x.com/mikenevermiss/status/2072358721821221212)*
+*by [@mikenevermiss](https://x.com/mikenevermiss) · 763 likes · [source](https://x.com/mikenevermiss/status/2072358721821221212)*
 
 - Claude builds complete websites from a single prompt including business type, colors, sections, and writing style.
 - The websites are clean HTML, mobile-friendly, fast-loading, with a working contact form.
@@ -36,8 +42,15 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Higgsfield generates cinematic clips from 30+ models matched to the story.
 - Claude Code scaffolds site with GSAP ScrollTrigger and Lenis smooth-scroll.
 
+### [$500 phone farms run AI girls for $15,300/month per account](https://digestops.com/p/500-phone-farms-run-ai-girls-for-15-300-month-per-account-63)
+*by [@0xTria](https://x.com/0xTria) · 201 likes · [source](https://x.com/0xTria/status/2072261597125333389)*
+
+- Phone farms with stripped phones wired into racks run 24/7 to manage dozens of fake creators.
+- Claude writes persona and DMs, Flux creates faces, Kling turns stills into reels, CapCut edits, Fanvue monetizes.
+- One AI girl can make $15,300/month; scaled to 2000 devices.
+
 ### [A developer built a system of 20 AI agents that generated $20,000 in a month by running Etsy stores, Fiverr gigs, and other online businesses.](https://digestops.com/p/a-developer-built-a-system-of-20-ai-agents-that-generated-12)
-*by [@sandy4kad](https://x.com/sandy4kad) · 5916 likes · [source](https://x.com/sandy4kad/status/2072255044544512004)*
+*by [@sandy4kad](https://x.com/sandy4kad) · 5985 likes · [source](https://x.com/sandy4kad/status/2072255044544512004)*
 
 - Use a central agent (e.g., 'Ultron' on GPT-5.5) to coordinate other agents and keep them working.
 - Automate product research by scraping Etsy for top sellers and replicating with small tweaks.
@@ -60,7 +73,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Drones fire biodegradable seed pods at 180 capsules per minute, and satellite imagery monitors regrowth.
 
 ### [User generated a video of a young Korean woman in a residential neighborhood using Seedance 2.0 on OpenArt AI.](https://digestops.com/p/user-generated-a-video-of-a-young-korean-woman-in-a-10)
-*by [@john_my07](https://x.com/john_my07) · 14786 likes · [source](https://x.com/john_my07/status/2071977017474789557)*
+*by [@john_my07](https://x.com/john_my07) · 14808 likes · [source](https://x.com/john_my07/status/2071977017474789557)*
 
 - Use a detailed prompt specifying subject appearance, location, and visual style for consistent video generation.
 - Include constraints like 'maintain consistent identity' and 'no commercial activity' to guide the model.
@@ -69,7 +82,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 ## 2026-06-29
 
 ### [Tutorial on generating unlimited AI images and videos using Google Flow automation.](https://digestops.com/p/tutorial-on-generating-unlimited-ai-images-and-videos-using-16)
-*by [@chrisdadiva](https://x.com/chrisdadiva) · 1666 likes · [source](https://x.com/chrisdadiva/status/2071507965035655442)*
+*by [@chrisdadiva](https://x.com/chrisdadiva) · 1667 likes · [source](https://x.com/chrisdadiva/status/2071507965035655442)*
 
 - Google Flow can automate AI image and video generation without browser extensions.
 - The workflow enables bulk content creation and repetitive task automation.
@@ -84,12 +97,26 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Use ChatGPT to generate a detailed prompt for a similar kids show.
 - Generate animation in Picsart AI Playground using the prompt, then upload to YouTube.
 
+### [$5,614 in 2 weeks from AI girl on Fanvue using Claude](https://digestops.com/p/5-614-in-2-weeks-from-ai-girl-on-fanvue-using-claude-59)
+*by [@Bober_smart](https://x.com/Bober_smart) · 3197 likes · [source](https://x.com/Bober_smart/status/2071312311843766460)*
+
+- Created AI-generated photo and video content with Claude.
+- Grew TikTok to 52,544 followers in 5 days for advertising.
+- Monetized via Fanvue with 562 subscribers at $9.99/month.
+
 ### [$35k animated site now costs $12 with Claude Code and Higgsfield](https://digestops.com/p/35k-animated-site-now-costs-12-with-claude-code-and-40)
 *by [@zeuuss_01](https://x.com/zeuuss_01) · 957 likes · [source](https://x.com/zeuuss_01/status/2071277843141579246)*
 
 - Higgsfield generates cinematic clips from 30+ models for hero shots and transitions.
 - Claude Code scaffolds the site, writes GSAP ScrollTrigger timelines and Lenis smooth-scroll.
 - Six cinematic effects (film grain, particles, vignette, glass cards, color tints, scroll pacing) ship by default.
+
+### [Physical knobs and voice control Claude Code without typing or mouse](https://digestops.com/p/physical-knobs-and-voice-control-claude-code-without-typing-62)
+*by [@hey_madni](https://x.com/hey_madni) · 242 likes · [source](https://x.com/hey_madni/status/2071131570048757922)*
+
+- TP-7 button controls Claude Code functions like switching agents and seeing status on display.
+- Voice input works in any language and runs locally.
+- Planned open-source release once complete.
 
 ### [Branded IG carousel generator in Claude Code: one URL + product name = 6 slides](https://digestops.com/p/branded-ig-carousel-generator-in-claude-code-one-url-45)
 *by [@mikefutia](https://x.com/mikefutia) · 364 likes · [source](https://x.com/mikefutia/status/2071042498324234527)*
@@ -115,6 +142,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Design Variations allows instant generation and exploration of UI layouts.
 - It simplifies the process of describing aesthetics in prompts.
 - The feature is available now in AI Studio.
+
+### [5M views in 2 weeks from automated content system](https://digestops.com/p/5m-views-in-2-weeks-from-automated-content-system-61)
+*by [@mikenevermiss](https://x.com/mikenevermiss) · 1902 likes · [source](https://x.com/mikenevermiss/status/2070418466679452018)*
+
+- System scrapes trending topics and top posts daily to generate 10 ranked content ideas.
+- AI writes post in user's style, checks for errors, and cross-posts to 5 platforms automatically.
+- Post-performance data (likes, shares, bookmarks) feeds back to improve future content generation.
 
 ## 2026-01-19
 
