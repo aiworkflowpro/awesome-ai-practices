@@ -2,9 +2,22 @@
 
 > What people actually build the week a new model drops
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · updated 2026-07-03 16:26 UTC · 17 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · updated 2026-07-03 22:26 UTC · 21 practices
 
 ## 2026-07-03
+
+### [Saved tokens by letting Fable choose subagent model](https://digestops.com/p/saved-tokens-by-letting-fable-choose-subagent-model-84)
+*by [@simonw](https://x.com/simonw) · 1496 likes · [source](https://x.com/simonw/status/2073117641020215566)*
+
+- Instructing the model to use its own judgement to select a lower power model for coding tasks saves tokens.
+- The approach delegates model selection to the agent, reducing overhead from always using the most powerful model.
+
+### [Manipulate objects in existing videos with Gemini Omni Flash text prompts](https://digestops.com/p/manipulate-objects-in-existing-videos-with-gemini-omni-87)
+*by [@ComfyUI](https://x.com/ComfyUI) · 436 likes · [source](https://x.com/ComfyUI/status/2073059371723198725)*
+
+- Gemini Omni Flash can modify objects and environments in existing videos using simple text prompts.
+- Iteration and specific prompting may be needed to achieve desired results.
+- The workflow is available for others to try.
 
 ### [Free Gemini 3.5 Flash with 1M context and 1500 requests/day](https://digestops.com/p/free-gemini-3-5-flash-with-1m-context-and-1500-requests-day-70)
 *by [@CDGalpha](https://x.com/CDGalpha) · 1031 likes · [source](https://x.com/CDGalpha/status/2072928597573353947)*
@@ -14,6 +27,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 - Two models available: gemini-3.5-flash for strong performance, gemini-3.1-flash-lite for cheap high-volume calls.
 
 ## 2026-07-02
+
+### [Automated YouTube workflow with Claude Code and find skills MCP](https://digestops.com/p/automated-youtube-workflow-with-claude-code-and-find-skills-86)
+*by [@alextalksai](https://x.com/alextalksai) · 448 likes · [source](https://x.com/alextalksai/status/2072742391124009047)*
+
+- Use 'find skills' MCP package to let Claude scan hundreds of Anthropic ecosystem skills and build the optimal workflow from a single prompt.
+- The workflow includes script generation (Notion + Claude), b-roll selection (Veo 3), thumbnail (Sora), caption+scheduling (Buffer), and performance tracking (Typefully).
+- One prompt triggers the entire content pipeline, requiring only the desired outcome as input.
 
 ### [Scrape sold homes, find shade-less patios, mail owners a pergola render](https://digestops.com/p/scrape-sold-homes-find-shade-less-patios-mail-owners-a-32)
 *by [@everestchris6](https://x.com/everestchris6) · 4002 likes · [source](https://x.com/everestchris6/status/2072687270709309589)*
@@ -45,7 +65,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 - Spin up 50+ subagents for complex tasks; treat Fable 5 as a consultant, not a chatbot.
 
 ### [A trader used Claude Fable 5 to improve a Polymarket bot that achieved 531.8% ROI over 42 days.](https://digestops.com/p/a-trader-used-claude-fable-5-to-improve-a-polymarket-bot-5)
-*by [@robrtcode](https://x.com/robrtcode) · 1188 likes · [source](https://x.com/robrtcode/status/2072389666871890002)*
+*by [@robrtcode](https://x.com/robrtcode) · 1274 likes · [source](https://x.com/robrtcode/status/2072389666871890002)*
 
 - The bot executed ~30 trades per hour on short-term Bitcoin 'Up/Down' markets, averaging $6,878 daily profit.
 - Strategy: wait for short-term pricing to deviate from fair value, enter before board rebalances, and repeat at scale.
@@ -59,14 +79,14 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 - Sonnet 5 matched or beat Opus 4.8 and GPT 5.5 in wrecking ball and catapult tests, but had weaker detail and graphics.
 
 ### [Sonnet 5 built landing page in 2m 11s at $3.36 vs Opus 4.8 at $20.66](https://digestops.com/p/sonnet-5-built-landing-page-in-2m-11s-at-3-36-vs-opus-4-8-33)
-*by [@markksantos](https://x.com/markksantos) · 923 likes · [source](https://x.com/markksantos/status/2072026366967738833)*
+*by [@markksantos](https://x.com/markksantos) · 924 likes · [source](https://x.com/markksantos/status/2072026366967738833)*
 
 - Sonnet 5 used 20.9k input and 14.2k output tokens, costing $3.36 and taking 2m 11s.
 - Opus 4.8 used 96.3k input and 73.8k output tokens, costing $20.66 and taking 20m 15s.
 - Opus 4.8 produced higher quality output, but Sonnet 5 was faster and cheaper.
 
 ### [GeneBench-Pro benchmark for agents navigating messy biological data](https://digestops.com/p/genebench-pro-benchmark-for-agents-navigating-messy-54)
-*by [@OpenAI](https://x.com/OpenAI) · 4411 likes · [source](https://x.com/OpenAI/status/2072004836674167294)*
+*by [@OpenAI](https://x.com/OpenAI) · 4420 likes · [source](https://x.com/OpenAI/status/2072004836674167294)*
 
 - Introduced GeneBench-Pro, a research-level benchmark for evaluating agents on biological data analysis.
 - Benchmark tests agents' ability to navigate messy data, choose analysis paths, and make judgment calls.
@@ -110,10 +130,17 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 - Replaces cloud rental costs by running local AI tasks like transcription and summarization.
 - Setup enables running Claude-connected automation from a backpack.
 
+### [22x cheaper bug fixing with GLM 5.2 vs Claude Opus 4.8](https://digestops.com/p/22x-cheaper-bug-fixing-with-glm-5-2-vs-claude-opus-4-8-85)
+*by [@gmi_cloud](https://x.com/gmi_cloud) · 907 likes · [source](https://x.com/gmi_cloud/status/2070317987299741957)*
+
+- GLM 5.2 used 17k–38k fewer tokens than Opus 4.8 for bug fixing tasks.
+- GLM 5.2 cost 15x to 22x less than Opus 4.8 in two tests.
+- Opus 4.8 finished a few seconds faster but at much higher cost.
+
 ## 2026-06-24
 
 ### [First AI chip Jalapeño built from ground up with Broadcom for LLM workloads](https://digestops.com/p/first-ai-chip-jalape-o-built-from-ground-up-with-broadcom-53)
-*by [@OpenAI](https://x.com/OpenAI) · 22759 likes · [source](https://x.com/OpenAI/status/2069770172802773292)*
+*by [@OpenAI](https://x.com/OpenAI) · 22753 likes · [source](https://x.com/OpenAI/status/2069770172802773292)*
 
 - Designed and built a custom AI chip named Jalapeño in collaboration with Broadcom.
 - Chip is purpose-built for LLM workloads powering ChatGPT, Codex, API, and future agentic products.

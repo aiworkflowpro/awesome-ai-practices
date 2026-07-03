@@ -2,9 +2,16 @@
 
 > From one-line prompt to shipped interface
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · updated 2026-07-03 16:26 UTC · 28 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · updated 2026-07-03 22:26 UTC · 32 practices
 
 ## 2026-07-02
+
+### [Eliminated hours of prompting weekly by giving Codex specialized skills](https://digestops.com/p/eliminated-hours-of-prompting-weekly-by-giving-codex-94)
+*by [@insomnia_vip](https://x.com/insomnia_vip) · 155 likes · [source](https://x.com/insomnia_vip/status/2072723881832431956)*
+
+- Installed specialized skills for frontend design, browser automation, research, copywriting, and Figma implementation.
+- Setup took less than an hour and eliminated hours of repetitive prompting every week.
+- Giving the model repeatable skills instead of rewriting instructions for every new project was the biggest breakthrough.
 
 ### [Pollo AI Commerce Studio unifies product photos, try-on, and videos](https://digestops.com/p/pollo-ai-commerce-studio-unifies-product-photos-try-on-and-67)
 *by [@mikenevermiss](https://x.com/mikenevermiss) · 102 likes · [source](https://x.com/mikenevermiss/status/2072614506002256383)*
@@ -13,14 +20,14 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - No switching tools or re-uploading; no editing skills required.
 
 ### [Alibaba open-sourced PageAgent, a JavaScript AI agent that lives inside webpages for natural language control.](https://digestops.com/p/alibaba-open-sourced-pageagent-a-javascript-ai-agent-that-24)
-*by [@KanikaBK](https://x.com/KanikaBK) · 2831 likes · [source](https://x.com/KanikaBK/status/2072606006971081213)*
+*by [@KanikaBK](https://x.com/KanikaBK) · 3192 likes · [source](https://x.com/KanikaBK/status/2072606006971081213)*
 
 - PageAgent can be embedded with a single line of HTML and works without browser extensions or backend changes.
 - It supports smart form filling, voice commands, multi-page tasks, and MCP server integration.
 - Users can bring their own LLM (Qwen, GPT, Claude, etc.).
 
 ### [Open Design used Fable 5 to recreate a landing page from a reference link with built-in skills.](https://digestops.com/p/open-design-used-fable-5-to-recreate-a-landing-page-from-a-28)
-*by [@OpenDesignHQ](https://x.com/OpenDesignHQ) · 727 likes · [source](https://x.com/OpenDesignHQ/status/2072529283956760812)*
+*by [@OpenDesignHQ](https://x.com/OpenDesignHQ) · 733 likes · [source](https://x.com/OpenDesignHQ/status/2072529283956760812)*
 
 - Provide a single reference link for the AI to inspect and understand visual and technical details.
 - Use built-in skills to enable the AI to recreate polished pages with motion and 3D interactions.
@@ -101,7 +108,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-06-29
 
 ### [Vercel launched voice agent capabilities on AI Gateway with real-time speech and transcription.](https://digestops.com/p/vercel-launched-voice-agent-capabilities-on-ai-gateway-with-23)
-*by [@vercel](https://x.com/vercel) · 2469 likes · [source](https://x.com/vercel/status/2071620375621009416)*
+*by [@vercel](https://x.com/vercel) · 2470 likes · [source](https://x.com/vercel/status/2071620375621009416)*
 
 - Developers can build voice agents using useRealtime, generateSpeech, and transcribe functions in AI SDK 7.
 - The feature supports real-time speech and transcription.
@@ -137,8 +144,15 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 
 ## 2026-06-27
 
+### [11 open-source plugins turn Claude into a full back office coworker](https://digestops.com/p/11-open-source-plugins-turn-claude-into-a-full-back-office-93)
+*by [@undefinedKi](https://x.com/undefinedKi) · 526 likes · [source](https://x.com/undefinedKi/status/2070988681737900504)*
+
+- Anthropic released 11 plugins for Claude covering sales, marketing, engineering, data, design, product, HR, support, and productivity.
+- Each plugin comes with real workflows: sales plugin researches prospects, preps calls, reviews pipeline, drafts outreach, builds competitive battlecards.
+- Data plugin writes SQL, explores datasets, builds dashboards; productivity plugin learns people, projects, and shorthand for context-aware tasks.
+
 ### [Viktor Oddy published a 13-minute tutorial on using Figma to design and build $10k animated websites.](https://digestops.com/p/viktor-oddy-published-a-13-minute-tutorial-on-using-figma-26)
-*by [@viktoroddy](https://x.com/viktoroddy) · 1588 likes · [source](https://x.com/viktoroddy/status/2070831152248901804)*
+*by [@viktoroddy](https://x.com/viktoroddy) · 1589 likes · [source](https://x.com/viktoroddy/status/2070831152248901804)*
 
 - The tutorial covers step-by-step process for creating animated websites in Figma.
 - It targets high-end animated website design.
@@ -173,6 +187,20 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - A $10/month distributor ships tracks to Spotify; Claude handles metadata and busywork.
 - Spotify pays ~$0.003 per stream; tracks earn nothing until 1,000 plays in a year.
 
+### [Built an AI second brain with Obsidian and Claude Code that compounds weekly](https://digestops.com/p/built-an-ai-second-brain-with-obsidian-and-claude-code-that-96)
+*by [@kocer_eth](https://x.com/kocer_eth) · 141 likes · [source](https://x.com/kocer_eth/status/2070462815689711672)*
+
+- Obsidian stores raw thoughts, meeting notes, book highlights, project logs, decisions, sources, old drafts.
+- Claude Code searches the vault, connects old notes, rewrites messy captures, turns project folders into plans, finds contradictions, drafts from personal context.
+- The system gets more powerful as you feed it because Claude has more context to work with.
+
+### [Automate life with Hermes agent in under 10 minutes using 3-step framework](https://digestops.com/p/automate-life-with-hermes-agent-in-under-10-minutes-using-3-95)
+*by [@aiedge_](https://x.com/aiedge_) · 148 likes · [source](https://x.com/aiedge_/status/2070447037456507269)*
+
+- Do a time audit to identify tasks that can be fully automated or 50-80% handled by Hermes.
+- Use Hermes for research, scraping, and grunt work while keeping final creative control.
+- Framework: figure out what to automate, then let Hermes handle the busywork.
+
 ### [Consistent cinematic video series from one ChatGPT Image 2 character](https://digestops.com/p/consistent-cinematic-video-series-from-one-chatgpt-image-2-83)
 *by [@ZentrixHQ](https://x.com/ZentrixHQ) · 90 likes · [source](https://x.com/ZentrixHQ/status/2070424561137422696)*
 
@@ -183,7 +211,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-06-25
 
 ### [v0 released Design Systems 2.0, allowing import of design systems from GitHub, npm, Storybook, and Figma.](https://digestops.com/p/v0-released-design-systems-2-0-allowing-import-of-design-27)
-*by [@v0](https://x.com/v0) · 1001 likes · [source](https://x.com/v0/status/2070187537369583778)*
+*by [@v0](https://x.com/v0) · 1008 likes · [source](https://x.com/v0/status/2070187537369583778)*
 
 - Users can import real components, colors, fonts, and patterns from various sources.
 - The tool builds with the imported design system.
@@ -191,7 +219,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-06-17
 
 ### [Vercel released an open-source agent framework called 'eve' with a Next.js-like file structure.](https://digestops.com/p/vercel-released-an-open-source-agent-framework-called-eve-21)
-*by [@vercel](https://x.com/vercel) · 7362 likes · [source](https://x.com/vercel/status/2067180054979936413)*
+*by [@vercel](https://x.com/vercel) · 7364 likes · [source](https://x.com/vercel/status/2067180054979936413)*
 
 - The framework uses a file-based routing structure similar to Next.js for organizing agents.
 - It includes directories for tools, skills, sandbox, and schedules.

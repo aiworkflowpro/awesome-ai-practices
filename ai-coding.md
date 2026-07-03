@@ -2,12 +2,21 @@
 
 > Working setups for coding agents, not hot takes
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated 2026-07-03 16:26 UTC · 12 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated 2026-07-03 22:26 UTC · 13 practices
+
+## 2026-07-03
+
+### [Design award-level website in 18 min with Claude Code + Sonnet 5](https://digestops.com/p/design-award-level-website-in-18-min-with-claude-code-88)
+*by [@ClaudeCode_love](https://x.com/ClaudeCode_love) · 1300 likes · [source](https://x.com/ClaudeCode_love/status/2073008603796226267)*
+
+- Claude Code with Sonnet 5 can produce a design award-level website in 18 minutes from scratch.
+- The video demonstrates the full process from giving instructions to finishing the visual appearance.
+- The approach is documented as 'HTML-first thinking' for achieving high-quality design.
 
 ## 2026-07-02
 
 ### [Built a high-quality brand site with glowing effects and depth in one evening using Claude Code.](https://digestops.com/p/built-a-high-quality-brand-site-with-glowing-effects-and-9)
-*by [@monokern](https://x.com/monokern) · 1678 likes · [source](https://x.com/monokern/status/2072618245790580820)*
+*by [@monokern](https://x.com/monokern) · 1698 likes · [source](https://x.com/monokern/status/2072618245790580820)*
 
 - Claude Code can generate a brand site with custom effects like glowing headlines and product breaking out of frame.
 - The result matches quality of $5,000-$8,000 brand sites but costs only a Claude subscription.
@@ -74,7 +83,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated
 - This method led to a successful automated YouTube system.
 
 ### [Built an AI second brain by connecting Claude Desktop to Obsidian vault using a prompt.](https://digestops.com/p/built-an-ai-second-brain-by-connecting-claude-desktop-to-7)
-*by [@Av1dlive](https://x.com/Av1dlive) · 2361 likes · [source](https://x.com/Av1dlive/status/2070507527213871594)*
+*by [@Av1dlive](https://x.com/Av1dlive) · 2365 likes · [source](https://x.com/Av1dlive/status/2070507527213871594)*
 
 - Download and install Claude Desktop and Obsidian Desktop.
 - Create a new Obsidian vault and add .md files.
@@ -91,7 +100,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated
 ## 2026-06-23
 
 ### [206-page Codex guide from zero to real projects](https://digestops.com/p/206-page-codex-guide-from-zero-to-real-projects-71)
-*by [@bozhou_ai](https://x.com/bozhou_ai) · 4198 likes · [source](https://x.com/bozhou_ai/status/2069250352168493142)*
+*by [@bozhou_ai](https://x.com/bozhou_ai) · 4205 likes · [source](https://x.com/bozhou_ai/status/2069250352168493142)*
 
 - Created a 206-page PDF covering Codex from installation to five hands-on projects including a pet snack website and admin dashboard.
 - Includes a standard six-step workflow and reusable task templates for beginners.

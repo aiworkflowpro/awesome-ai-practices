@@ -2,9 +2,23 @@
 
 > Prompts, pipelines and params behind the clips going viral
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 2026-07-03 16:26 UTC · 26 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 2026-07-03 22:26 UTC · 30 practices
+
+## 2026-07-03
+
+### [Capcut Studio prompt for live-action + anime sticker composite video](https://digestops.com/p/capcut-studio-prompt-for-live-action-anime-sticker-91)
+*by [@mrdejie](https://x.com/mrdejie) · 489 likes · [source](https://x.com/mrdejie/status/2072919411535827170)*
+
+- Use Capcut Studio with a detailed prompt including style, duration, scene, and character.
+- Prompt specifies live-action beach POV with 2D anime sticker overlay, 8K, handheld shake.
 
 ## 2026-07-02
+
+### [Fable 5 made every app relaunch 6× faster (12s→2s)](https://digestops.com/p/fable-5-made-every-app-relaunch-6-faster-12s-2s-90)
+*by [@thymikee](https://x.com/thymikee) · 490 likes · [source](https://x.com/thymikee/status/2072767578640933318)*
+
+- Using Fable 5, app relaunch time reduced from 12 seconds to 2 seconds.
+- Time-to-interaction improved 2.3x, from 13s to 5s.
 
 ### [550 videos per day with Claude + Kling 3.0 for realistic UGC ads](https://digestops.com/p/550-videos-per-day-with-claude-kling-3-0-for-realistic-ugc-78)
 *by [@FynCas](https://x.com/FynCas) · 204 likes · [source](https://x.com/FynCas/status/2072681805312884947)*
@@ -13,18 +27,31 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - AI engine creates, tests, and scales short-form ads automatically.
 - UGC cost is $0, production time is minutes, scale is instant.
 
+### [70% token savings with Claude Fable 5 orchestrator and GPT 5.5 executor](https://digestops.com/p/70-token-savings-with-claude-fable-5-orchestrator-and-gpt-5-92)
+*by [@cjzafir](https://x.com/cjzafir) · 357 likes · [source](https://x.com/cjzafir/status/2072673196936184198)*
+
+- Write a detailed Claude.md file explaining Orchestrator and Executor models.
+- Use Claude Fable 5 (high) as orchestrator and GPT 5.5 xhigh as executor.
+- Use /handoff skill and open new chat frequently to fix context window.
+
 ### [Built an AI speed radar with Claude that sold to a city district for $317,000.](https://digestops.com/p/built-an-ai-speed-radar-with-claude-that-sold-to-a-city-20)
-*by [@0x_fokki](https://x.com/0x_fokki) · 976 likes · [source](https://x.com/0x_fokki/status/2072670906967625739)*
+*by [@0x_fokki](https://x.com/0x_fokki) · 1000 likes · [source](https://x.com/0x_fokki/status/2072670906967625739)*
 
 - Claude tags vehicles and pedestrians in real-time from a camera feed, flagging speeders.
 - It clips video, reads license plates, matches owners, and emails fines automatically.
 - The system was built in 9 days for $20 in API calls.
 
 ### [16-min tutorial: build cinematic $50k websites with Claude Fable 5](https://digestops.com/p/16-min-tutorial-build-cinematic-50k-websites-with-claude-60)
-*by [@viktoroddy](https://x.com/viktoroddy) · 3089 likes · [source](https://x.com/viktoroddy/status/2072581407076200791)*
+*by [@viktoroddy](https://x.com/viktoroddy) · 3360 likes · [source](https://x.com/viktoroddy/status/2072581407076200791)*
 
 - Recorded a step-by-step tutorial on using Claude Fable 5 to build high-end websites.
 - Demonstrates how anyone can build stunning sites fully with AI.
+
+### [AI Game Development Toolkit & Engine built over 5 months](https://digestops.com/p/ai-game-development-toolkit-engine-built-over-5-months-89)
+*by [@oldgamesnob](https://x.com/oldgamesnob) · 610 likes · [source](https://x.com/oldgamesnob/status/2072498082819014925)*
+
+- Built an ever-expanding toolkit for AI-powered asset creation and coding for game devs.
+- Toolkit is open for feature requests and suggestions.
 
 ## 2026-07-01
 
@@ -43,14 +70,14 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Generate full turnaround sheet with Claude writing prompt and GPT image rendering angles.
 
 ### [Built a Claude agent that creates websites in 45 minutes and generated $31,529 in one month.](https://digestops.com/p/built-a-claude-agent-that-creates-websites-in-45-minutes-19)
-*by [@mikenevermiss](https://x.com/mikenevermiss) · 776 likes · [source](https://x.com/mikenevermiss/status/2072358721821221212)*
+*by [@mikenevermiss](https://x.com/mikenevermiss) · 777 likes · [source](https://x.com/mikenevermiss/status/2072358721821221212)*
 
 - Claude builds complete websites from a single prompt including business type, colors, sections, and writing style.
 - The websites are clean HTML, mobile-friendly, fast-loading, with a working contact form.
 - Success came from packaging the service and finding clients on Fiverr/Upwork.
 
 ### [Rebuilt $35,000 animated site for $12 using Claude, Higgsfield, Claude Code](https://digestops.com/p/rebuilt-35-000-animated-site-for-12-using-claude-higgsfield-44)
-*by [@zeuuss_01](https://x.com/zeuuss_01) · 376 likes · [source](https://x.com/zeuuss_01/status/2072313492879614134)*
+*by [@zeuuss_01](https://x.com/zeuuss_01) · 378 likes · [source](https://x.com/zeuuss_01/status/2072313492879614134)*
 
 - Claude reads brief, pulls references, scripts scroll experience (emotion at seconds 3, 15, 40).
 - Higgsfield generates cinematic clips from 30+ models matched to the story.
@@ -64,7 +91,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - One AI girl can make $15,300/month; scaled to 2000 devices.
 
 ### [A developer built a system of 20 AI agents that generated $20,000 in a month by running Etsy stores, Fiverr gigs, and other online businesses.](https://digestops.com/p/a-developer-built-a-system-of-20-ai-agents-that-generated-12)
-*by [@sandy4kad](https://x.com/sandy4kad) · 6311 likes · [source](https://x.com/sandy4kad/status/2072255044544512004)*
+*by [@sandy4kad](https://x.com/sandy4kad) · 6461 likes · [source](https://x.com/sandy4kad/status/2072255044544512004)*
 
 - Use a central agent (e.g., 'Ultron' on GPT-5.5) to coordinate other agents and keep them working.
 - Automate product research by scraping Etsy for top sellers and replicating with small tweaks.
@@ -109,7 +136,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - For video generation, replaced Sora 2 with Kling 3.0 at 6x cheaper with roughly equal quality.
 
 ### [Tutorial on generating unlimited AI images and videos using Google Flow automation.](https://digestops.com/p/tutorial-on-generating-unlimited-ai-images-and-videos-using-16)
-*by [@chrisdadiva](https://x.com/chrisdadiva) · 1672 likes · [source](https://x.com/chrisdadiva/status/2071507965035655442)*
+*by [@chrisdadiva](https://x.com/chrisdadiva) · 1675 likes · [source](https://x.com/chrisdadiva/status/2071507965035655442)*
 
 - Google Flow can automate AI image and video generation without browser extensions.
 - The workflow enables bulk content creation and repetitive task automation.
@@ -118,7 +145,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 ## 2026-06-28
 
 ### [Up to $5k/month making AI cartoons on YouTube with Picsart and ChatGPT](https://digestops.com/p/up-to-5k-month-making-ai-cartoons-on-youtube-with-picsart-41)
-*by [@bonsaixbt](https://x.com/bonsaixbt) · 686 likes · [source](https://x.com/bonsaixbt/status/2071316264153186512)*
+*by [@bonsaixbt](https://x.com/bonsaixbt) · 685 likes · [source](https://x.com/bonsaixbt/status/2071316264153186512)*
 
 - Find viral kids' videos and copy their transcript as a foundation.
 - Use ChatGPT to generate a detailed prompt for a similar kids show.
@@ -146,7 +173,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Planned open-source release once complete.
 
 ### [Branded IG carousel generator in Claude Code: one URL + product name = 6 slides](https://digestops.com/p/branded-ig-carousel-generator-in-claude-code-one-url-45)
-*by [@mikefutia](https://x.com/mikefutia) · 364 likes · [source](https://x.com/mikefutia/status/2071042498324234527)*
+*by [@mikefutia](https://x.com/mikefutia) · 366 likes · [source](https://x.com/mikefutia/status/2071042498324234527)*
 
 - Claude scrapes brand URL to extract colors, fonts, voice, and positioning.
 - Generates 6 slide concepts across proven carousel frameworks with detailed image prompts.
@@ -164,7 +191,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 ## 2026-06-26
 
 ### [Introduced Design Variations in AI Studio to generate UI layouts from a single click.](https://digestops.com/p/introduced-design-variations-in-ai-studio-to-generate-ui-15)
-*by [@GoogleAIStudio](https://x.com/GoogleAIStudio) · 2233 likes · [source](https://x.com/GoogleAIStudio/status/2070608601652044045)*
+*by [@GoogleAIStudio](https://x.com/GoogleAIStudio) · 2234 likes · [source](https://x.com/GoogleAIStudio/status/2070608601652044045)*
 
 - Design Variations allows instant generation and exploration of UI layouts.
 - It simplifies the process of describing aesthetics in prompts.
