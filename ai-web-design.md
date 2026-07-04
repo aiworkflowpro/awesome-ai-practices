@@ -2,21 +2,42 @@
 
 > From one-line prompt to shipped interface
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · updated 2026-07-04 04:26 UTC · 36 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · updated 2026-07-04 10:26 UTC · 44 practices
 
 ## 2026-07-03
 
+### [$60.6K in sales from dropshipping store built with Fable 5](https://digestops.com/p/60-6k-in-sales-from-dropshipping-store-built-with-fable-5-134)
+*by [@kocer_eth](https://x.com/kocer_eth) · 38 likes · [source](https://x.com/kocer_eth/status/2073113131186884690)*
+
+- Fable 5 enables building storefronts, generating product images, and shipping multiple page variants quickly.
+- A/B testing on landing pages lets the platform determine the winner instead of guessing.
+- The loop: build with AI, generate images, ship variants, test, keep winner.
+
+### [Andrej Karpathy's $3M knowledge OS built on Obsidian with API and plugins](https://digestops.com/p/andrej-karpathy-s-3m-knowledge-os-built-on-obsidian-with-135)
+*by [@Sprytixl](https://x.com/Sprytixl) · 37 likes · [source](https://x.com/Sprytixl/status/2073046245824704644)*
+
+- Obsidian with its API and plugins creates a programmable knowledge operating system.
+- Markdown files become nodes in a living graph connecting everything.
+- The stack: Vault → Obsidian API → Plugin → AI enables LLM integration directly into notes.
+
 ### [Reference existing projects in Lovable with @ to reuse design systems](https://digestops.com/p/reference-existing-projects-in-lovable-with-to-reuse-design-114)
-*by [@Lovable](https://x.com/Lovable) · 147 likes · [source](https://x.com/Lovable/status/2073044258945433780)*
+*by [@Lovable](https://x.com/Lovable) · 157 likes · [source](https://x.com/Lovable/status/2073044258945433780)*
 
 - Type @ in Lovable to pull design systems, UX flows, assets, or components from other projects.
 - Lovable reads chats and code from referenced projects to adapt them to the current build.
 
 ### [$10K-quality website with Fable 5: dynamic environment, no studio needed](https://digestops.com/p/10k-quality-website-with-fable-5-dynamic-environment-no-116)
-*by [@xmyttle](https://x.com/xmyttle) · 74 likes · [source](https://x.com/xmyttle/status/2073016068411408739)*
+*by [@xmyttle](https://x.com/xmyttle) · 109 likes · [source](https://x.com/xmyttle/status/2073016068411408739)*
 
 - Fable 5 creates scroll-driven environmental changes (water, lighting, world shifts) that previously required a designer, WebGL developer, motion specialist, and creative studio.
 - One builder can now deliver high-end interactive websites that clients assumed were out of budget.
+
+### [$10k/month AI legal assistant from n8n workflow and Lovable frontend](https://digestops.com/p/10k-month-ai-legal-assistant-from-n8n-workflow-and-lovable-130)
+*by [@0x_fokki](https://x.com/0x_fokki) · 69 likes · [source](https://x.com/0x_fokki/status/2072983994887462999)*
+
+- Frontend built with Lovable from a text prompt, no code.
+- Backend uses n8n webhook, Basic LLM Chain, search-enabled OpenAI, Tavily for crawling, and Output Parser for JSON.
+- Response capped at 50 words, sourced only from official government sites.
 
 ### [$540K/month from a gym app using Duolingo playbook](https://digestops.com/p/540k-month-from-a-gym-app-using-duolingo-playbook-115)
 *by [@JeremyLasne](https://x.com/JeremyLasne) · 99 likes · [source](https://x.com/JeremyLasne/status/2072958152195100866)*
@@ -34,12 +55,26 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 
 ## 2026-07-02
 
+### [One night with Claude + Antigravity built a live 3D visual playground](https://digestops.com/p/one-night-with-claude-antigravity-built-a-live-3d-visual-132)
+*by [@Degen_calls_sol](https://x.com/Degen_calls_sol) · 55 likes · [source](https://x.com/Degen_calls_sol/status/2072756469674475881)*
+
+- Claude handles the thinking, Antigravity handles the build, human steers taste.
+- Result is a live 3D playground with particles, bending surfaces, collapsing grids.
+- AI coding can be a creative instrument beyond SaaS and landing pages.
+
 ### [Eliminated hours of prompting weekly by giving Codex specialized skills](https://digestops.com/p/eliminated-hours-of-prompting-weekly-by-giving-codex-94)
 *by [@insomnia_vip](https://x.com/insomnia_vip) · 155 likes · [source](https://x.com/insomnia_vip/status/2072723881832431956)*
 
 - Installed specialized skills for frontend design, browser automation, research, copywriting, and Figma implementation.
 - Setup took less than an hour and eliminated hours of repetitive prompting every week.
 - Giving the model repeatable skills instead of rewriting instructions for every new project was the biggest breakthrough.
+
+### [Build 10x better sites with Initium style+strategy+blocks+skills system](https://digestops.com/p/build-10x-better-sites-with-initium-style-strategy-blocks-129)
+*by [@matsugfx](https://x.com/matsugfx) · 69 likes · [source](https://x.com/matsugfx/status/2072653942354219508)*
+
+- Define colors, fonts, and buttons once as a reusable Style.
+- Answer key questions about offer and audience to form a Strategy.
+- Use 220+ production-ready shadcn sections as Blocks for your AI agent.
 
 ### [Pollo AI Commerce Studio unifies product photos, try-on, and videos](https://digestops.com/p/pollo-ai-commerce-studio-unifies-product-photos-try-on-and-67)
 *by [@mikenevermiss](https://x.com/mikenevermiss) · 102 likes · [source](https://x.com/mikenevermiss/status/2072614506002256383)*
@@ -63,13 +98,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-07-01
 
 ### [Private app for apartment building scaled to 50 buildings](https://digestops.com/p/private-app-for-apartment-building-scaled-to-50-buildings-47)
-*by [@thegreatest_sv](https://x.com/thegreatest_sv) · 366 likes · [source](https://x.com/thegreatest_sv/status/2072385245576568932)*
+*by [@thegreatest_sv](https://x.com/thegreatest_sv) · 367 likes · [source](https://x.com/thegreatest_sv/status/2072385245576568932)*
 
 - Built a private app for verified residents to report problems, share deliveries, and warn about suspicious activity.
 - The app started from a single building and grew to 50 buildings within weeks.
 
 ### [A software company reduced Hermes agent token costs by configuring background tasks instead of switching models.](https://digestops.com/p/a-software-company-reduced-hermes-agent-token-costs-by-29)
-*by [@IBuzovskyi](https://x.com/IBuzovskyi) · 682 likes · [source](https://x.com/IBuzovskyi/status/2072380699386978492)*
+*by [@IBuzovskyi](https://x.com/IBuzovskyi) · 681 likes · [source](https://x.com/IBuzovskyi/status/2072380699386978492)*
 
 - Token costs are driven by system prompts, memory files, skill headers, MCP tool schemas, and conversation history.
 - Disable or prune unused skills to reduce per-message token usage.
@@ -133,6 +168,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - Built a Mac app that lives in the notch for drag-and-drop media storage and retrieval using a local LLM.
 - Pay once, keep forever; runs locally.
 
+### [$5,000 in 3 minutes: full website built with Claude Sonnet 5 and sold](https://digestops.com/p/5-000-in-3-minutes-full-website-built-with-claude-sonnet-5-133)
+*by [@noisyb0y1](https://x.com/noisyb0y1) · 47 likes · [source](https://x.com/noisyb0y1/status/2072156522696577056)*
+
+- Claude Sonnet 5 can generate a complete 3D landing page from a single prompt in 3 minutes.
+- AI-generated UGC videos cost $2-4 instead of $150-250 from creators.
+- Claude Code automates content scheduling across 15+ accounts via API.
+
 ## 2026-06-29
 
 ### [Vercel launched voice agent capabilities on AI Gateway with real-time speech and transcription.](https://digestops.com/p/vercel-launched-voice-agent-capabilities-on-ai-gateway-with-23)
@@ -156,6 +198,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - Have Claude ask 4-6 clarifying questions before building to align on design taste.
 - The edge is giving the agent taste, references, and a review loop, not harder prompting.
 
+### [Offline talking AI pharaoh toy built for $200 each, no internet needed](https://digestops.com/p/offline-talking-ai-pharaoh-toy-built-for-200-each-no-131)
+*by [@regent0x_](https://x.com/regent0x_) · 59 likes · [source](https://x.com/regent0x_/status/2071325478367969612)*
+
+- Runs completely offline with no internet, subscription, or account.
+- Voice interaction with character that stays in role (ancient pharaoh).
+- Built as a one-off gift, now sold to order at $200 each.
+
 ### [$5,000 agency-style portfolio site in 2 hours with Claude Code](https://digestops.com/p/5-000-agency-style-portfolio-site-in-2-hours-with-claude-52)
 *by [@Asteri_eth](https://x.com/Asteri_eth) · 156 likes · [source](https://x.com/Asteri_eth/status/2071299906451456017)*
 
@@ -164,7 +213,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - Claude Code built the site, fixed transitions, improved flashlight lag, adjusted fonts.
 
 ### [A developer built a $10k-tier animated 3D website using Claude Code for the cost of a subscription.](https://digestops.com/p/a-developer-built-a-10k-tier-animated-3d-website-using-25)
-*by [@monokern](https://x.com/monokern) · 2202 likes · [source](https://x.com/monokern/status/2071257133614584186)*
+*by [@monokern](https://x.com/monokern) · 2200 likes · [source](https://x.com/monokern/status/2071257133614584186)*
 
 - The site features real-time 3D product models reacting to scroll, smooth hover interactions, and cinematic aesthetics.
 - Claude Code enabled a single developer to replace a team of 3D artist, motion designer, and frontend developer.
@@ -200,7 +249,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - The developer used a 3D printed case to cover most of the screen.
 
 ### [Fitness app uses casino psychology with betting on step goals](https://digestops.com/p/fitness-app-uses-casino-psychology-with-betting-on-step-65)
-*by [@BrooksWhaleX](https://x.com/BrooksWhaleX) · 146 likes · [source](https://x.com/BrooksWhaleX/status/2070667862478598469)*
+*by [@BrooksWhaleX](https://x.com/BrooksWhaleX) · 145 likes · [source](https://x.com/BrooksWhaleX/status/2070667862478598469)*
 
 - Users bet money on hitting 10,000 steps; miss goal loses bet, hit goal splits pot with winners.
 - Financial loss aversion motivates action more effectively than streaks or badges.
@@ -239,10 +288,19 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-06-25
 
 ### [v0 released Design Systems 2.0, allowing import of design systems from GitHub, npm, Storybook, and Figma.](https://digestops.com/p/v0-released-design-systems-2-0-allowing-import-of-design-27)
-*by [@v0](https://x.com/v0) · 1008 likes · [source](https://x.com/v0/status/2070187537369583778)*
+*by [@v0](https://x.com/v0) · 1011 likes · [source](https://x.com/v0/status/2070187537369583778)*
 
 - Users can import real components, colors, fonts, and patterns from various sources.
 - The tool builds with the imported design system.
+
+## 2026-06-22
+
+### [Convert Lovable website to iOS app in minutes using Superapp](https://digestops.com/p/convert-lovable-website-to-ios-app-in-minutes-using-superapp-136)
+*by [@Abmankendrick](https://x.com/Abmankendrick) · 35 likes · [source](https://x.com/Abmankendrick/status/2068994907461583174)*
+
+- A website built in Lovable can be turned into a native iOS app by pasting the URL into Superapp.
+- The process: build in Lovable, paste URL into Superapp, hit generate, deploy as mobile app.
+- No separate redesign or rebuild needed for mobile.
 
 ## 2026-06-17
 

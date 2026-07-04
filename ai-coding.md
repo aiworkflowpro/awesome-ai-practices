@@ -2,12 +2,12 @@
 
 > Working setups for coding agents, not hot takes
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated 2026-07-04 04:26 UTC · 16 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated 2026-07-04 10:26 UTC · 17 practices
 
 ## 2026-07-03
 
 ### [Design award-level website in 18 min with Claude Code + Sonnet 5](https://digestops.com/p/design-award-level-website-in-18-min-with-claude-code-88)
-*by [@ClaudeCode_love](https://x.com/ClaudeCode_love) · 1300 likes · [source](https://x.com/ClaudeCode_love/status/2073008603796226267)*
+*by [@ClaudeCode_love](https://x.com/ClaudeCode_love) · 2581 likes · [source](https://x.com/ClaudeCode_love/status/2073008603796226267)*
 
 - Claude Code with Sonnet 5 can produce a design award-level website in 18 minutes from scratch.
 - The video demonstrates the full process from giving instructions to finishing the visual appearance.
@@ -16,7 +16,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated
 ## 2026-07-02
 
 ### [Built a high-quality brand site with glowing effects and depth in one evening using Claude Code.](https://digestops.com/p/built-a-high-quality-brand-site-with-glowing-effects-and-9)
-*by [@monokern](https://x.com/monokern) · 1700 likes · [source](https://x.com/monokern/status/2072618245790580820)*
+*by [@monokern](https://x.com/monokern) · 1705 likes · [source](https://x.com/monokern/status/2072618245790580820)*
 
 - Claude Code can generate a brand site with custom effects like glowing headlines and product breaking out of frame.
 - The result matches quality of $5,000-$8,000 brand sites but costs only a Claude subscription.
@@ -64,6 +64,12 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated
 
 ## 2026-06-28
 
+### [Halo: on-device iPhone agent with MCP, skills, subagents, and wiki memory](https://digestops.com/p/halo-on-device-iphone-agent-with-mcp-skills-subagents-and-121)
+*by [@tanmays](https://x.com/tanmays) · 2166 likes · [source](https://x.com/tanmays/status/2071223208511234335)*
+
+- Halo runs entirely on iPhone with no server required, supporting any LLM provider.
+- It includes a custom agent harness with MCP support, skills, subagents, and self-updating wiki memory with RAG.
+
 ### [Automate Obsidian with Claude: Karpathy's method turns AI into full-time Zettelkasten maintainer](https://digestops.com/p/automate-obsidian-with-claude-karpathy-s-method-turns-ai-58)
 *by [@polydao](https://x.com/polydao) · 1928 likes · [source](https://x.com/polydao/status/2071105441698910415)*
 
@@ -107,7 +113,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated
 ## 2026-06-24
 
 ### [Delegate tasks to Cursor from Notion via Cursor SDK](https://digestops.com/p/delegate-tasks-to-cursor-from-notion-via-cursor-sdk-101)
-*by [@cursor_ai](https://x.com/cursor_ai) · 2480 likes · [source](https://x.com/cursor_ai/status/2069872515548340407)*
+*by [@cursor_ai](https://x.com/cursor_ai) · 2479 likes · [source](https://x.com/cursor_ai/status/2069872515548340407)*
 
 - Cloud agents run on same models and runtime as Cursor.
 - Assign tasks from Notion to open a PR for team review.
@@ -115,7 +121,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated
 ## 2026-06-23
 
 ### [One-click add popular plugins, skills, MCPs from team leaderboard](https://digestops.com/p/one-click-add-popular-plugins-skills-mcps-from-team-103)
-*by [@cursor_ai](https://x.com/cursor_ai) · 1840 likes · [source](https://x.com/cursor_ai/status/2069512593887092811)*
+*by [@cursor_ai](https://x.com/cursor_ai) · 1841 likes · [source](https://x.com/cursor_ai/status/2069512593887092811)*
 
 - Cursor shows leaderboard of most popular plugins, skills, MCPs across team.
 - Add any to your setup with one click from Customize page.

@@ -2,15 +2,22 @@
 
 > What people actually build the week a new model drops
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · updated 2026-07-04 04:26 UTC · 25 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · updated 2026-07-04 10:26 UTC · 29 practices
 
 ## 2026-07-03
 
 ### [Saved tokens by letting Fable choose subagent model](https://digestops.com/p/saved-tokens-by-letting-fable-choose-subagent-model-84)
-*by [@simonw](https://x.com/simonw) · 2511 likes · [source](https://x.com/simonw/status/2073117641020215566)*
+*by [@simonw](https://x.com/simonw) · 3151 likes · [source](https://x.com/simonw/status/2073117641020215566)*
 
 - Instructing the model to use its own judgement to select a lower power model for coding tasks saves tokens.
 - The approach delegates model selection to the agent, reducing overhead from always using the most powerful model.
+
+### [3x Nvidia RTX 5080 inference speed on DeepSeek R1 with AMD Ryzen AI Max+ 395](https://digestops.com/p/3x-nvidia-rtx-5080-inference-speed-on-deepseek-r1-with-amd-117)
+*by [@chesny](https://x.com/chesny) · 1537 likes · [source](https://x.com/chesny/status/2073116308472787191)*
+
+- AMD Ryzen AI Max+ 395 chip shares 128 GB memory between CPU and GPU, giving GPU 110 GB for model inference.
+- The chip outperformed Nvidia RTX 5080 by over 3x in DeepSeek R1 inference in a live demo.
+- The system runs a 235-billion-parameter model locally on a $1,499 mini PC without cloud or data center.
 
 ### [Fable 5 prompt generates Grok videos matching seedance 2.5 quality at 6x lower cost](https://digestops.com/p/fable-5-prompt-generates-grok-videos-matching-seedance-2-5-99)
 *by [@AYi_AInotes](https://x.com/AYi_AInotes) · 1333 likes · [source](https://x.com/AYi_AInotes/status/2073076344582234357)*
@@ -26,8 +33,15 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 - Iteration and specific prompting may be needed to achieve desired results.
 - The workflow is available for others to try.
 
+### [$408,292 in 2 days from Polymarket bot built with Claude](https://digestops.com/p/408-292-in-2-days-from-polymarket-bot-built-with-claude-119)
+*by [@codewithimanshu](https://x.com/codewithimanshu) · 416 likes · [source](https://x.com/codewithimanshu/status/2072991152773718502)*
+
+- Binance WebSocket feeds real-time spot price + 5-minute candles into the system.
+- Force-graph runs 100 nodes and 180 connections to detect BULL/BEAR convergence in real time.
+- Bot compares spot price to Polymarket CLOB and executes in under 100ms when delay detected.
+
 ### [Free Gemini 3.5 Flash with 1M context and 1500 requests/day](https://digestops.com/p/free-gemini-3-5-flash-with-1m-context-and-1500-requests-day-70)
-*by [@CDGalpha](https://x.com/CDGalpha) · 1900 likes · [source](https://x.com/CDGalpha/status/2072928597573353947)*
+*by [@CDGalpha](https://x.com/CDGalpha) · 2101 likes · [source](https://x.com/CDGalpha/status/2072928597573353947)*
 
 - Gemini 3.5 Flash is free-tier eligible with no credit card required, offering 1M token context and 1500 requests/day.
 - Setup takes 2 minutes: get a free API key from Google AI Studio, then point any OpenAI-compatible client (Cursor, Cline, Claude Code) at Gemini.
@@ -36,11 +50,18 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 ## 2026-07-02
 
 ### [Automated YouTube workflow with Claude Code and find skills MCP](https://digestops.com/p/automated-youtube-workflow-with-claude-code-and-find-skills-86)
-*by [@alextalksai](https://x.com/alextalksai) · 464 likes · [source](https://x.com/alextalksai/status/2072742391124009047)*
+*by [@alextalksai](https://x.com/alextalksai) · 473 likes · [source](https://x.com/alextalksai/status/2072742391124009047)*
 
 - Use 'find skills' MCP package to let Claude scan hundreds of Anthropic ecosystem skills and build the optimal workflow from a single prompt.
 - The workflow includes script generation (Notion + Claude), b-roll selection (Veo 3), thumbnail (Sora), caption+scheduling (Buffer), and performance tracking (Typefully).
 - One prompt triggers the entire content pipeline, requiring only the desired outcome as input.
+
+### [PaperWiki: LLM-powered knowledge base for research workflows](https://digestops.com/p/paperwiki-llm-powered-knowledge-base-for-research-workflows-120)
+*by [@omarsar0](https://x.com/omarsar0) · 385 likes · [source](https://x.com/omarsar0/status/2072735813469905026)*
+
+- Built PaperWiki using Obsidian vault, qmd indexing, and HTML artifact for full-text search.
+- Automated ingestion from multiple sources with agents on a loop maintaining the wiki.
+- Used across research workflows, newsletter, and X curation.
 
 ### [Scrape sold homes, find shade-less patios, mail owners a pergola render](https://digestops.com/p/scrape-sold-homes-find-shade-less-patios-mail-owners-a-32)
 *by [@everestchris6](https://x.com/everestchris6) · 5113 likes · [source](https://x.com/everestchris6/status/2072687270709309589)*
@@ -100,7 +121,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 - Opus 4.8 produced higher quality output, but Sonnet 5 was faster and cheaper.
 
 ### [GeneBench-Pro benchmark for agents navigating messy biological data](https://digestops.com/p/genebench-pro-benchmark-for-agents-navigating-messy-54)
-*by [@OpenAI](https://x.com/OpenAI) · 4426 likes · [source](https://x.com/OpenAI/status/2072004836674167294)*
+*by [@OpenAI](https://x.com/OpenAI) · 4436 likes · [source](https://x.com/OpenAI/status/2072004836674167294)*
 
 - Introduced GeneBench-Pro, a research-level benchmark for evaluating agents on biological data analysis.
 - Benchmark tests agents' ability to navigate messy data, choose analysis paths, and make judgment calls.
@@ -119,6 +140,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 - Cost is $0.034 per image, making it suitable for high-velocity pipelines
 - Available via AI Studio and Gemini API for easy integration
 
+### [$946,207 from $1,000 using 31-model ensemble Bitcoin agent](https://digestops.com/p/946-207-from-1-000-using-31-model-ensemble-bitcoin-agent-118)
+*by [@expertwith_AI](https://x.com/expertwith_AI) · 492 likes · [source](https://x.com/expertwith_AI/status/2071893001211941163)*
+
+- Built a Claude agent that reads 5-minute BTC candles and feeds into MiroFish simulator running 31 parallel prediction paths.
+- Trade only fires when 28 out of 31 models agree; below 26 votes trade dies instantly.
+- Agent collects market data 24/7, runs continuous simulations, and operates fully autonomously.
+
 ### [50 static ad concepts daily via Claude Code skill](https://digestops.com/p/50-static-ad-concepts-daily-via-claude-code-skill-35)
 *by [@mikefutia](https://x.com/mikefutia) · 539 likes · [source](https://x.com/mikefutia/status/2071748670442381666)*
 
@@ -129,7 +157,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 ## 2026-06-27
 
 ### [$24,542/month from 2 AI girls built with Claude](https://digestops.com/p/24-542-month-from-2-ai-girls-built-with-claude-34)
-*by [@Bober_smart](https://x.com/Bober_smart) · 651 likes · [source](https://x.com/Bober_smart/status/2070950267822969169)*
+*by [@Bober_smart](https://x.com/Bober_smart) · 653 likes · [source](https://x.com/Bober_smart/status/2070950267822969169)*
 
 - Created Fanvue account with $9.99 subscription for AI girl, gained 1,265 subscribers in a month.
 - Used Claude to analyze male preferences and generate photos/videos autonomously with timer posting.
@@ -161,7 +189,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 - Uses Gemini Omni, GPT Images 2, and Claude Code for scripting, rendering, and stitching.
 
 ### [First AI chip Jalapeño built from ground up with Broadcom for LLM workloads](https://digestops.com/p/first-ai-chip-jalape-o-built-from-ground-up-with-broadcom-53)
-*by [@OpenAI](https://x.com/OpenAI) · 22753 likes · [source](https://x.com/OpenAI/status/2069770172802773292)*
+*by [@OpenAI](https://x.com/OpenAI) · 22759 likes · [source](https://x.com/OpenAI/status/2069770172802773292)*
 
 - Designed and built a custom AI chip named Jalapeño in collaboration with Broadcom.
 - Chip is purpose-built for LLM workloads powering ChatGPT, Codex, API, and future agentic products.
@@ -179,7 +207,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 ## 2026-06-18
 
 ### [Anthropic tested Claude Opus 4.7 programming a robodog, achieving 20x speed improvement over human team with Opus 4.1.](https://digestops.com/p/anthropic-tested-claude-opus-4-7-programming-a-robodog-2)
-*by [@AnthropicAI](https://x.com/AnthropicAI) · 2284 likes · [source](https://x.com/AnthropicAI/status/2067651699486200091)*
+*by [@AnthropicAI](https://x.com/AnthropicAI) · 2283 likes · [source](https://x.com/AnthropicAI/status/2067651699486200091)*
 
 - Claude Opus 4.7 autonomously programmed a robodog ~20x faster than the best human team aided by Opus 4.1.
 - The robodog still failed to fetch a beach ball, indicating limitations in physical task completion.
